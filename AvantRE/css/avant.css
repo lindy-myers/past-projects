@@ -1,0 +1,41 @@
+#wrapper {background-color: #CEB992;
+	   min-width:700px;
+	   padding-bottom: 20px;
+	   padding-left: 30px;
+	   border: 1px solid #000033;
+	   border-style: ridge;
+	   -webkit-border-radius: 15px;
+	   -moz-border-radius: 15px;
+	   border-radius: 15px;
+	   -webkit-box-shadow: inset -3px -3px 3px 3px #00332b;
+	   -moz-box-shadow: inset -3px -3px 3px 3px #00332B;
+	   box-shadow: inset -3px -3px 3px 3px #00332b;
+	   }
+	   
+img {border-style: none;	   
+	   }
+	   
+body { background-color: #000033;
+	   color: #003300;
+	   font-family: Arial, Helvetica, sans-serif;
+	   background-image: url("../images/avantdiagonal.png");
+	   }
+h2 {   
+	   color: #00000;
+	   }
+h3 {   
+	   color: #233056;
+	   padding-top: 10px;}
+dd{    font-size: .90em;
+	   line-height: 200%;
+	   font-style: italic;}
+#header{
+	    color: #000000; }
+.nav{   font-size: 1.20em;
+		font-weight: bold;}
+.contact {font-weight: bold;
+		font-size: .90em;
+		font-family: "Times New Roman",serif;
+		}
+#footer {font-size: .60em;
+		font-style: italic;}
